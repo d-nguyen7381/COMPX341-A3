@@ -1,10 +1,3 @@
-import React from "react";
-import { API } from "aws-amplify";
-
-import BestSellerProductRow from "./BestSellerProductRow";
-import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
-import { SearchBar } from "../search/searchBar/SearchBar";
-
 interface BestSellersProps {}
 
 interface BestSellersState {
