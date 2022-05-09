@@ -1,3 +1,5 @@
+// comment placed here to test the pipeline after adding the git commands
+
 import React from "react";
 import { API } from "aws-amplify";
 
