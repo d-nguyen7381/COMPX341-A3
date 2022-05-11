@@ -1,4 +1,4 @@
-//
+//Name: David Nguyen Huu, ID: 1547834
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",

@@ -5,6 +5,8 @@ ts_files=( $(find . -type f -name "*.ts") )
 # a comment that contains my name and id
 for i in "${ts_files[@]}"
 do 
+   echo "$i is being edited.."
+   sed -i '1d' $i
    sed -i '1i //Name: David Nguyen Huu, ID: 1547834' $i
 done
 

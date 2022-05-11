@@ -1,4 +1,4 @@
-//
+//Name: David Nguyen Huu, ID: 1547834
 export default {
   apiGateway: {
     REGION: "us-east-1",
